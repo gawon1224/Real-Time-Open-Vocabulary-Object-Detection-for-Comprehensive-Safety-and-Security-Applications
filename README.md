@@ -4,10 +4,14 @@
 - Developed a user‑friendly web interface allowing free‑form text queries for intuitive detection control.
 - Implemented real‑time video processing with visualization of inference results from live camera input.
 
-Project Period
+## Project Period
 - Sep.2024 - Dec.2024
 
-Wrap up Report
+## Jetson Xavier NX
+<img width="1260" height="708" alt="image" src="https://github.com/user-attachments/assets/e4931058-5bfb-4f12-80c5-9b41d9140880" />
+
+
+## Wrap up Report
 
 [Real-Time Open-Vocabulary Object Detection for Comprehensive Safety and Security Applications.pdf](https://github.com/user-attachments/files/21341143/Real-Time.Open-Vocabulary.Object.Detection.for.Comprehensive.Safety.and.Security.Applications.pdf)
 
