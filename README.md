@@ -8,9 +8,9 @@ Project Period
 - Sep.2024 - Dec.2024
 
 Wrap up Report
+
 [Real-Time Open-Vocabulary Object Detection for Comprehensive Safety and Security Applications.pdf](https://github.com/user-attachments/files/21341143/Real-Time.Open-Vocabulary.Object.Detection.for.Comprehensive.Safety.and.Security.Applications.pdf)
 
-## Demo Video 
-(Zero-shot image demo available online)
+## Demo Video (Zero-shot image demo available online)
 https://github.com/user-attachments/assets/b15b1edd-89f4-436b-bc01-820453fd5754
 
