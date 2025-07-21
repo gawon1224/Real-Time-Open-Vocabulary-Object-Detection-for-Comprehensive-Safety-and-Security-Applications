@@ -8,7 +8,7 @@
 - Sep.2024 - Dec.2024
 
 ## Jetson Xavier NX
-<img width="1260" height="708" alt="image" src="https://github.com/user-attachments/assets/e4931058-5bfb-4f12-80c5-9b41d9140880" />
+<img width="630" height="354" alt="image" src="https://github.com/user-attachments/assets/e4931058-5bfb-4f12-80c5-9b41d9140880" />
 
 
 ## Wrap up Report
