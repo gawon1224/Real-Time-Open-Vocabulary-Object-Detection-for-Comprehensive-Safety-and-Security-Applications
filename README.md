@@ -15,6 +15,17 @@
 
 [Real-Time Open-Vocabulary Object Detection for Comprehensive Safety and Security Applications.pdf](https://github.com/user-attachments/files/21341143/Real-Time.Open-Vocabulary.Object.Detection.for.Comprehensive.Safety.and.Security.Applications.pdf)
 
-## Demo Video (Zero-shot image demo available online)
-https://github.com/user-attachments/assets/b15b1edd-89f4-436b-bc01-820453fd5754
+## Demo Video
+### Zero-shot image demo available online
+https://github.com/user-attachments/assets/d7f4812c-61ee-4865-abfc-e1fbfbcad05a
+
+### Real-Time camera demo
+https://github.com/user-attachments/assets/5a417638-b1c7-4fb0-8a73-c7a76a1f4f5b
+
+
+https://github.com/user-attachments/assets/eb484bad-12c8-44cf-946d-9a6e12c52158
+
+
+https://github.com/user-attachments/assets/40acd4b3-783a-4e60-8b64-60c646c15d84
+
 
